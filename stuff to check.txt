@@ -1,0 +1,3 @@
+https://github.com/dbader/schedule
+https://docs.python.org/3/library/time.html
+httpswww.w3schools.comhowtohowto_css_blog_layout.asp
